@@ -1,5 +1,5 @@
 #%%
-# Using a pretrainged model
+# Using a pretrained model
 
 #Imports
 import os
